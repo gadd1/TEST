@@ -20,3 +20,4 @@ Feature2 changes
 
 
 >>>>>>> origin/master
+Feature1
