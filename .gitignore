@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 log/*.log
+=======
+/logs
+>>>>>>> origin/master
